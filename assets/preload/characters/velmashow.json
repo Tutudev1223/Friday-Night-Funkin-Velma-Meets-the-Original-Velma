@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				26
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				-36
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "RightMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				32
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "LeftMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-28
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DownMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				53
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UpMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				17
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Right0",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"offsets": [
+				175,
+				17
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/VelmaShow",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-309,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
